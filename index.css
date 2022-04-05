@@ -4,6 +4,8 @@
 }
 body {
     background-color: #C8C6C4;
+    height: 100%;
+    position: relative;
 }
 .cabecalho {
     display: flex;
@@ -64,4 +66,16 @@ body {
 #contact:hover {
     color: #ff9100;
     font-size: 130%;
+}
+.cachorro {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    
+}
+.rodape {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffd000;
+    background-color: #222016;
+    text-align: center;
 }
